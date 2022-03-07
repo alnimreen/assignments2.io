@@ -1,0 +1,19 @@
+#header-nav{
+	background-color: gray;
+	border-radius:0;
+	border: 2px solid;
+
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.container{
+	font-family: Shippori Antique B1 ;
+	margin-left: 20px;
+}
+
+nav .openMenu{
+	display: block;
+}
